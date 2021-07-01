@@ -25,3 +25,5 @@ Note - It is important that `Percolation` is compiled before `PercolationStats`.
 
 #### Usage
 Run `java PercolationStats n trials` in order to estimate the p* value for an *n-by-n* grid using `trials` number of trials.
+
+Note :- This was intended as an assignment for Princeton's Coursera MOOC, Algorithms 1. 
